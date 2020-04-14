@@ -8,3 +8,6 @@
 
 ### 本地运行
 ```npm run dev```
+
+### 本地运行
+```import { VirtualList } from 'mini-virtual-list-react' ```

@@ -41,4 +41,4 @@ class VirtualList extends Component {
     </div>;
   }
 }
-export default VirtualList
+export default {VirtualList}
